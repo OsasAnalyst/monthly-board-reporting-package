@@ -1,0 +1,21 @@
+category;revenue_variance;variance_pct;status;narrative
+health_beauty;73485.07;220.94;ok;Health Beauty beat budget by $73,485 (220.9%), driven primarily by volume - a different number of units sold than planned, not a price change.
+watches_gifts;56323.06;196.22;ok;Watches Gifts beat budget by $56,323 (196.2%), driven primarily by volume - a different number of units sold than planned, not a price change.
+bed_bath_table;36377.79;105.51;ok;Bed Bath Table beat budget by $36,378 (105.5%), driven primarily by volume - a different number of units sold than planned, not a price change.
+housewares;32474.84;138.56;ok;Housewares beat budget by $32,475 (138.6%), driven by a mix of price and volume changes, in roughly similar measure.
+furniture_decor;25095.64;148.09;ok;Furniture Decor beat budget by $25,096 (148.1%), driven by a mix of price and volume changes, in roughly similar measure.
+construction_tools_construction;22563.82;5877.57;ok;Construction Tools Construction beat budget by $22,564 (5877.6%), driven primarily by price - units sold at a different average price than planned, not a change in volume. (Note: budget for this category was only $384, so the percentage above is directionally noisy.)
+baby;22292.34;269.95;ok;Baby beat budget by $22,292 (269.9%), driven by a mix of price and volume changes, in roughly similar measure.
+cool_stuff;-20698.72;-51.73;ok;Cool Stuff missed budget by $20,699 (51.7%), driven primarily by volume - a different number of units sold than planned, not a price change.
+telephony;15780.04;229.03;ok;Telephony beat budget by $15,780 (229.0%), driven primarily by price - units sold at a different average price than planned, not a change in volume.
+auto;14160.09;45.97;ok;Auto beat budget by $14,160 (46.0%), driven by a mix of price and volume changes, in roughly similar measure.
+pet_shop;14112.03;262.32;ok;Pet Shop beat budget by $14,112 (262.3%), driven by a mix of price and volume changes, in roughly similar measure.
+computers;13127.0;;unbudgeted;Computers generated $13,127 in revenue with no budget baseline set for this category.
+sports_leisure;11245.73;33.4;ok;Sports Leisure beat budget by $11,246 (33.4%), driven primarily by volume - a different number of units sold than planned, not a price change.
+musical_instruments;10935.22;208.58;ok;Musical Instruments beat budget by $10,935 (208.6%), driven by a mix of price and volume changes, in roughly similar measure.
+stationery;9190.83;250.55;ok;Stationery beat budget by $9,191 (250.6%), driven primarily by volume - a different number of units sold than planned, not a price change.
+electronics;7398.53;326.5;ok;Electronics beat budget by $7,399 (326.5%), driven primarily by volume - a different number of units sold than planned, not a price change.
+home_appliances_2;7074.57;571.38;ok;Home Appliances 2 beat budget by $7,075 (571.4%), driven by a mix of price and volume changes, in roughly similar measure. (Note: budget for this category was only $1,238, so the percentage above is directionally noisy.)
+home_construction;7062.44;347.54;ok;Home Construction beat budget by $7,062 (347.5%), driven by a mix of price and volume changes, in roughly similar measure.
+signaling_and_security;5722.48;4067.15;ok;Signaling And Security beat budget by $5,722 (4067.2%), driven by a mix of price and volume changes, in roughly similar measure. (Note: budget for this category was only $141, so the percentage above is directionally noisy.)
+small_appliances;5247.88;51.53;ok;Small Appliances beat budget by $5,248 (51.5%), driven primarily by volume - a different number of units sold than planned, not a price change.

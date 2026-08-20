@@ -1,0 +1,4 @@
+month;type;actual_revenue;forecast_revenue;error_pct
+2026-07;backtest;867953.46;856077.86;1.4
+2026-08;backtest;838576.64;862015.66;-2.7
+2026-09;forward_forecast;;854202.65;

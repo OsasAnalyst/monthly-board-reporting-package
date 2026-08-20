@@ -1,0 +1,24 @@
+category;revenue_variance;variance_pct;status;narrative
+health_beauty;67572.8;187.96;ok;Health Beauty beat budget by $67,573 (188.0%), driven primarily by volume - a different number of units sold than planned, not a price change.
+watches_gifts;59777.25;168.92;ok;Watches Gifts beat budget by $59,777 (168.9%), driven primarily by volume - a different number of units sold than planned, not a price change.
+housewares;41926.74;202.97;ok;Housewares beat budget by $41,927 (203.0%), driven by a mix of price and volume changes, in roughly similar measure.
+auto;28885.6;198.1;ok;Auto beat budget by $28,886 (198.1%), driven primarily by volume - a different number of units sold than planned, not a price change.
+furniture_decor;20884.91;85.21;ok;Furniture Decor beat budget by $20,885 (85.2%), driven by a mix of price and volume changes, in roughly similar measure.
+cool_stuff;-17334.12;-45.04;ok;Cool Stuff missed budget by $17,334 (45.0%), driven primarily by volume - a different number of units sold than planned, not a price change.
+telephony;16987.17;178.71;ok;Telephony beat budget by $16,987 (178.7%), driven primarily by price - units sold at a different average price than planned, not a change in volume.
+sports_leisure;15566.12;40.48;ok;Sports Leisure beat budget by $15,566 (40.5%), driven by a mix of price and volume changes, in roughly similar measure.
+construction_tools_construction;14677.04;2618.89;ok;Construction Tools Construction beat budget by $14,677 (2618.9%), driven primarily by volume - a different number of units sold than planned, not a price change. (Note: budget for this category was only $560, so the percentage above is directionally noisy.)
+pet_shop;12439.08;180.15;ok;Pet Shop beat budget by $12,439 (180.2%), driven by a mix of price and volume changes, in roughly similar measure.
+home_appliances_2;11542.65;1094.43;ok;Home Appliances 2 beat budget by $11,543 (1094.4%), driven primarily by price - units sold at a different average price than planned, not a change in volume. (Note: budget for this category was only $1,055, so the percentage above is directionally noisy.)
+computers;11239.0;;unbudgeted;Computers generated $11,239 in revenue with no budget baseline set for this category.
+stationery;9965.0;137.41;ok;Stationery beat budget by $9,965 (137.4%), driven primarily by volume - a different number of units sold than planned, not a price change.
+bed_bath_table;-9637.47;-15.05;ok;Bed Bath Table missed budget by $9,637 (15.1%), driven primarily by price - units sold at a different average price than planned, not a change in volume.
+fixed_telephony;9089.72;3957.79;ok;Fixed Telephony beat budget by $9,090 (3957.8%), driven primarily by price - units sold at a different average price than planned, not a change in volume. (Note: budget for this category was only $230, so the percentage above is directionally noisy.)
+toys;-8132.68;-32.33;ok;Toys missed budget by $8,133 (32.3%), driven primarily by volume - a different number of units sold than planned, not a price change.
+perfumery;7275.01;54.41;ok;Perfumery beat budget by $7,275 (54.4%), driven primarily by volume - a different number of units sold than planned, not a price change.
+construction_tools_lights;6882.41;1874.29;ok;Construction Tools Lights beat budget by $6,882 (1874.3%), driven by a mix of price and volume changes, in roughly similar measure. (Note: budget for this category was only $367, so the percentage above is directionally noisy.)
+home_construction;6604.78;6918.03;ok;Home Construction beat budget by $6,605 (6918.0%), driven by a mix of price and volume changes, in roughly similar measure. (Note: budget for this category was only $95, so the percentage above is directionally noisy.)
+garden_tools;6309.55;32.64;ok;Garden Tools beat budget by $6,310 (32.6%), driven primarily by price - units sold at a different average price than planned, not a change in volume.
+baby;5599.64;34.49;ok;Baby beat budget by $5,600 (34.5%), driven primarily by volume - a different number of units sold than planned, not a price change.
+costruction_tools_tools;5501.2;;unbudgeted;Costruction Tools Tools generated $5,501 in revenue with no budget baseline set for this category.
+agro_industry_and_commerce;5430.82;438.32;ok;Agro Industry And Commerce beat budget by $5,431 (438.3%), driven by a mix of price and volume changes, in roughly similar measure. (Note: budget for this category was only $1,239, so the percentage above is directionally noisy.)
